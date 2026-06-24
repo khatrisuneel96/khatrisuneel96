@@ -32,8 +32,8 @@ AI/Automation  n8n · VAPI · RAG
 | What | Impact |
 |------|--------|
 | **Tax Filing Platform** — Full-stack Node.js + React system for 5,000+ tax offices | 50K+ returns processed annually, 99.8% uptime, 99.7% calculation accuracy |
-| **Gaming Platform Backend** — Event-driven microservices with payment integrations | 25K+ DAU, 30K+ daily events at <100ms latency, 99.9% uptime |
-| **Real-Time Chat System** — WebSocket infrastructure for competitive gaming | 15K+ concurrent users, 35% increase in engagement |
+| **Gaming Platform Backend** — Event-driven microservices with payment integrations | 15K+ DAU, 30K+ daily events at <100ms latency, 99.9% uptime |
+| **Real-Time Chat System** — WebSocket infrastructure for competitive gaming | 10K+ concurrent users, 35% increase in engagement |
 | **AI Sales Workflow Builder** — React frontend for visual AI sequence design | 28% load time reduction through code splitting |
 
 ---
