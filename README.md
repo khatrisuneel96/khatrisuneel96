@@ -87,7 +87,7 @@ Full-Stack Software Engineer with 5+ years shipping production systems — from 
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=khatrisuneel96&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=khatrisuneel96&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
